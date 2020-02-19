@@ -25,7 +25,7 @@ Adds the status of Salesforce DX projects to your iTerm2 status bar.
 
 ![Example prompt](Example.png)
 
-**Note** The fish prompt for SFDX can be found [here](https://github.com/mschmidtkorth/fish-pure-prompt-salesforce-dx).
+**Note** The fish prompt for SFDX can be found [here](https://github.com/mschmidtkorth/fish-prompt-salesforce-dx).
 
 ## How to Contribute
 
